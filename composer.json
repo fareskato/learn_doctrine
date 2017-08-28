@@ -1,0 +1,12 @@
+{
+  "description": "My small blog to play with Doctrine",
+
+  "require": {
+    "doctrine/orm": "2.5.*",
+    "doctrine/data-fixtures": "^1.2"
+  },
+
+  "autoload": {
+    "psr-0": { "": "src/" }
+  }
+}
